@@ -12,4 +12,4 @@ Coral bleaching, driven largely by elevated sea surface temperatures, threatens 
 
 ## Repository Contents
 * `manuscript.pdf` - Full text of the paper (preprint version).
-* `/code` - Script used to run the experiment, train the model, and generate figures.
+* `code.py` - Script used to run the experiment, train the model, and generate figures.
